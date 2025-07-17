@@ -3,6 +3,7 @@
 Smart safety solution for Simhastha 2028 that predicts crowd density using AI and provides real-time monitoring capabilities.
 
 ## 🚀 Live Demo
+[View Dashboard](https://ai-crowdflow-and-safety-dashboard.netlify.app)
 ai-crowdflow-and-safety-dashboard.netlify.app 
 
 ## 🎯 Features
